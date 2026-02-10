@@ -1,0 +1,3 @@
+Hi, my name is Johnsung (John) Lee.
+I am a senior majoring in Economics at Boston University.
+My favorite class so far is DS219 because I am learning practical tools like Git and GitHub.
